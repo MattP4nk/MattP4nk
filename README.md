@@ -2,7 +2,7 @@
 - 👀 I’m interested in... writing and continuing to develop my skills
 - 🌱 I’m currently learning ... Python and Javascript
 - 💞️ I’m looking to collaborate on... any project! 
-- 📫 How to reach me... Mattmadtales@gmail.com
+- 📫 How to reach me... lunasegoviarodrigo@gmail.com
 
 <!---
 MattP4nk/MattP4nk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
